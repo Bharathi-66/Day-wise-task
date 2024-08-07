@@ -1,0 +1,38 @@
+nav li
+{
+    float:left;
+    padding:5px;
+    list-style: none;
+
+}
+.one
+{
+    border:20px 30px 20px 30px;
+    border-style:dotted;
+    border-color:chocolate;
+     background-color:blanchedalmond;
+    background-position: center;
+    height: 600px;
+    background-image:url("tech.jpg");
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    
+
+    width:800px;
+   
+    outline: 5px;
+    outline-style:groove;
+    outline-offset:10px;
+    outline-color:chartreuse;
+    letter-spacing:2px;
+    word-spacing: 3px;
+    line-height: 50px;
+}
+.fil{
+     filter: brightness(200px);
+    float:right;
+}
+.blu
+{
+    filter:blur(3px);
+}
